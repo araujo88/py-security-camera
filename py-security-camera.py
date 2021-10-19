@@ -23,7 +23,6 @@ def send_email():
 	server.quit()
 
 
-
 if __name__ == "__main__":
 
 	cap = cv2.VideoCapture(0) # opens webcam
