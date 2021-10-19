@@ -18,3 +18,5 @@ Run the program with:
  When the program is running, the webcam is turned on and cannot be used by other applications. It starts recording whenever a face is detected by the camera and sends an e-mail warning to the preconfigured e-mail setting. 
  
  It stops recording 5 seconds after no face is being detected on screen. This 5 seconds setting can be modified by altering the variable ```SECONDS_TO_RECORD_AFTER_DETECTION```.
+ 
+ The application can be exited by pressing ```q```.
